@@ -32,7 +32,7 @@ for (var i = 0; i < cityGet.length; i++) {
             getNews();
         }
         if (e.target.innerHTML == "Germany") {
-            cont = "ge";
+            cont = "de";
             getNews();
         }
 
