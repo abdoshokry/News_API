@@ -1,0 +1,24 @@
+.cityNews {
+    position: fixed;
+    top: 120px;
+    width: 115px;
+    padding-left: 10px;
+    background-color: black;
+    border: darkgreen solid 1px;
+    border-radius: 5px;
+}
+
+.cityNews h5 {
+    color: teal;
+}
+
+.cityNews div {
+    padding-left: 10px;
+    cursor: pointer;
+    color: white;
+    padding-top: 10px;
+}
+
+.city:hover {
+    color: green;
+}
